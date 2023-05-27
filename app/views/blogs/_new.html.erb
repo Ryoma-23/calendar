@@ -1,22 +1,23 @@
-<%= form_with(model: @blog, local: true) do |form| %>
+<%= form_with(model: blog, local: true) do |form| %>
 
   <div class="title">
     <div class="form-tag">タイトル</div>
-    <%= form.text_field :title %>
+    <%= form.text_field :title, class: "form-control" %>
   </div>
-  
+
+
   <div class="content">
     <div class="form-tag">内容</div>
-    <%= form.text_field :content %>
+    <%= form.text_area :content, class: "form-control" %>
   </div>
-  
-  <div class="title">
+
+  <div class="time">
     <div class="form-tag">時間</div>
     <%= form.datetime_select :start_time %>
   </div>
-  
-  <div class="submit">
+
+  <div class="submit text-right">
     <%= form.submit %>
   </div>
-  
+
 <% end %>
