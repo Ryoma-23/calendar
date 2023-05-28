@@ -15,7 +15,7 @@
 
 <img width="1470" alt="スクリーンショット 2023-05-27 午後4 20 25" src="https://github.com/Ryoma-23/calendar/assets/120545081/15c453da-d035-48f6-947d-2e115f5c1b6f">
 <img width="1470" alt="スクリーンショット 2023-05-27 午後4 20 43" src="https://github.com/Ryoma-23/calendar/assets/120545081/0c426b46-b419-40a1-b438-40a4c0a352c6">
-<img width="1468" alt="スクリーンショット 2023-05-27 午後4 20 58" src="https://github.com/Ryoma-23/calendar/assets/120545081/187bd30c-1af2-4f13-9502-ffdfa169b7f6">
+<img width="1470" alt="スクリーンショット 2023-05-28 午後2 26 54" src="https://github.com/Ryoma-23/calendar/assets/120545081/b2d6a4de-21b8-4860-9760-7c6509b30d23">
 
 ## 開発環境
 * Ruby 3.1.2
